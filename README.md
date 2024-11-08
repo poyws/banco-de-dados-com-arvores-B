@@ -25,6 +25,3 @@ __Para compilar o programa, abra o terminal na pasta do projeto e execute:__
 
 ```bash
 gcc main.c b_tree.c database.c -o btree_db
-
-# Licença
-Livre para uso educacional. Aprenda e divirta-se!
